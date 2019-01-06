@@ -1,4 +1,4 @@
-export const webkitPrefix = 'WebkitAppearance' in document.documentElement.style
+export const webkitPrefix = 'webkitLineBreak' in document.documentElement.style
   ? '-webkit-'
   : ''
 
